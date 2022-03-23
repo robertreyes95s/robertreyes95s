@@ -1,18 +1,8 @@
 Hello! My name is Robert. 
 
-I'm currently working as a Jr. Linux Sys Admin for a company that builds awesome robots!
+I'm currently working as a Linux System Admin for a compnay that builds awesome robots. I'm studying to be a software engineer or devops engineer. This repo is a base for all my projects and practice code, it also may have a few random test code here and there. I love python and am currenlty also learning Golang. 
 
-I love coding and working with linux and other new tech. I'm currently learning how to be a linux/python guru
+Thanks for stoping by!
 
-I hope to be employeed as a software engineer in the near future or a devops engineer. I also wouldn't mind being a linux systems engineer!
-
-This is some tech I'm currently studying:
-
-1. HTML/CSS
-2. Python
-3. Ansible
-4. Linux
-5. SQL
-
-I'll be posting some hopefully awesome projects on this account. We shall see :) 
+- Robert 
 
